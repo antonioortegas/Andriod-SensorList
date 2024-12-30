@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjercicioAdicional</string>
+    <string name="waiting_for_sensor_values">Waiting for sensor values...</string>
+    <string name="select_a_sensor_to_see_values">Select a sensor to see values</string>
+</resources>
